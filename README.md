@@ -1,13 +1,13 @@
 # ARITHMETIC-LOGIC-UNIT-ALU-
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: DAMA KAVYA
+NAME: BANAVATH SAI CHARAN NAIK
 
-INTERN ID: CTIS9747
+INTERN ID: CTIS8825
 
 DOMAIN: VLSI
 
-DURATION: 4 WEEKS
+DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
@@ -62,3 +62,5 @@ In this project, a 4-bit Arithmetic Logic Unit (ALU) was successfully designed a
 This project provided practical knowledge about digital circuit design, VHDL programming, and FPGA simulation. It also demonstrated the importance of ALUs in modern computing systems and digital electronics applications.
 
 #OUTPUT
+
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-03 at 10 22 20 AM" src="https://github.com/user-attachments/assets/e4662247-4a26-4723-b54d-7d1d8240e3ca" />
